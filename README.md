@@ -22,4 +22,4 @@ This repository will contains file and exercise to practice before the exam
 
 | Video  | Topics | My Implementation
 |---|---|---|
-|  [![Anagram Checker](https://ytcards.demolab.com/?id=Zpsw6YCHyDs " ")](https://www.youtube.com/watch?v=Zpsw6YCHyDs)  | great to see the methods `sorted`, `replace`, and `lower` applied to a string | ... | 
+|  [![Anagram Checker](https://ytcards.demolab.com/?id=Zpsw6YCHyDs " ")](https://www.youtube.com/watch?v=Zpsw6YCHyDs)  | great to see the methods `sorted`, `replace`, and `lower` applied to a string | [anagram.py](https://github.com/alessiotucci/Intro-to-Programming-Python-/blob/main/Portfolio_courses/anagram_checker.py) | 
