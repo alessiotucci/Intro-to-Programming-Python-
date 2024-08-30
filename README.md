@@ -23,3 +23,4 @@ This repository will contains file and exercise to practice before the exam
 | Video  | Topics | My Implementation
 |---|---|---|
 |  [![Anagram Checker](https://ytcards.demolab.com/?id=Zpsw6YCHyDs " ")](https://www.youtube.com/watch?v=Zpsw6YCHyDs)  | great to see the methods `sorted`, `replace`, and `lower` applied to a string | [anagram.py](https://github.com/alessiotucci/Intro-to-Programming-Python-/blob/main/Portfolio_courses/anagram_checker.py) | 
+|  [![is it Water with api](https://ytcards.demolab.com/?id=H32xQz8r8yA " ")](https://www.youtube.com/watch?v=H32xQz8r8yA) | small program that perform an api call, it use a `dictionary` and import a `modules` | [is_it_water.py](https://github.com/alessiotucci/Intro-to-Programming-Python-/blob/main/Portfolio_courses/is_it_water.py)|
