@@ -16,3 +16,10 @@ This repository will contains file and exercise to practice before the exam
 | lab09 | ... |
 | lab10 | ... |
 | lab11 | ... |
+
+# [Portfolio Courses](https://www.youtube.com/@PortfolioCourses)
+## [This Professor](https://www.linkedin.com/in/kevinbrowneteaches/?originalSubdomain=ca) right here taught me a lot about C, now I will learn Python with him as well.
+
+| Video  | Topics | My Implementation
+|---|---|---|
+|  [![Anagram Checker](https://ytcards.demolab.com/?id=Zpsw6YCHyDs " ")](https://www.youtube.com/watch?v=Zpsw6YCHyDs)  | great to see the methods `sorted`, `replace`, and `lower` applied to a string | ... | 
