@@ -20,7 +20,7 @@ This repository will contains file and exercise to practice before the exam
 # [Portfolio Courses](https://www.youtube.com/@PortfolioCourses)
 ## [This Professor](https://www.linkedin.com/in/kevinbrowneteaches/?originalSubdomain=ca) right here taught me a lot about C, now I will learn Python with him as well.
 
-| Video  | Topics | My Implementation
-|---|---|---|
-|  [![Anagram Checker](https://ytcards.demolab.com/?id=Zpsw6YCHyDs " ")](https://www.youtube.com/watch?v=Zpsw6YCHyDs)  | great to see the methods `sorted`, `replace`, and `lower` applied to a string | [anagram.py](https://github.com/alessiotucci/Intro-to-Programming-Python-/blob/main/Portfolio_courses/anagram_checker.py) | 
-|  [![is it Water with api](https://ytcards.demolab.com/?id=H32xQz8r8yA " ")](https://www.youtube.com/watch?v=H32xQz8r8yA) | small program that perform an api call, it use a `dictionary` and import a `modules` | [is_it_water.py](https://github.com/alessiotucci/Intro-to-Programming-Python-/blob/main/Portfolio_courses/is_it_water.py)|
+| Video  | Topics | My Implementation | date | 
+|---|---|---|---| 
+|  [![Anagram Checker](https://ytcards.demolab.com/?id=Zpsw6YCHyDs " ")](https://www.youtube.com/watch?v=Zpsw6YCHyDs)  | great to see the methods `sorted`, `replace`, and `lower` applied to a string | [anagram.py](https://github.com/alessiotucci/Intro-to-Programming-Python-/blob/main/Portfolio_courses/anagram_checker.py) | 30 Agosto 2024 | 
+|  [![is it Water with api](https://ytcards.demolab.com/?id=H32xQz8r8yA " ")](https://www.youtube.com/watch?v=H32xQz8r8yA) | small program that perform an api call, it use a `dictionary` and import a `modules` | [is_it_water.py](https://github.com/alessiotucci/Intro-to-Programming-Python-/blob/main/Portfolio_courses/is_it_water.py)| 30 Agosto 2024 | 
