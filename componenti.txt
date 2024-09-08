@@ -1,0 +1,6 @@
+NomeComponente, quantita, prezzo
+gambeCorte,33,10
+gambeLunghe,12,5
+seduta,4,6
+piano,5,10
+viti,50,1
